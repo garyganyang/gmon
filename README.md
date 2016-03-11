@@ -6,3 +6,6 @@ watch "ESTABLISHED" "TIMEWAIT" "CLOSE_WAIT" "FIN_WAIT1" "FIN_WAIT2" "SYN_RECV" s
 
 #run monitor and watch it every 5 seconds
 ./gmon.sh  5
+
+Screenshot
+![](http://i.imgur.com/o7YVrdK.png)
